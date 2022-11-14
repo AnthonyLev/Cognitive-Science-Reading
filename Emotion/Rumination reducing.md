@@ -14,6 +14,21 @@ Abstract
 
 > Research suggests that rumination increases anger and aggression. Mindfulness, or present-focused and intentional awareness, may counteract rumination. Using structural equation modeling, we examined the relations between mindfulness, rumination, and aggression. In a pair of studies, we found a pattern of correlations consistent with rumination partially mediating a causal link between mindfulness and hostility, anger, and verbal aggression. The pattern was not consistent with rumination mediating the association between mindfulness and physical aggression. Although it is impossible with the current nonexperimental data to test causal mediation, these correlations support the idea that mindfulness could reduce rumination, which in turn could reduce aggression. These results suggest that longitudinal work and experimental manipulations mindfulness would be worthwhile approaches for further study of rumination and aggression. We discuss possible implications of these results.
 
+### ANTHONY : Mindfulness-based interventions for the treatment of depressive rumination: Systematic review and meta-analysis
+https://www.sciencedirect.com/science/article/pii/S1697260017300510  : 
+
+Meta analysis : Mindfulness-based cognitive therapy compared to usual care, produces a significant and moderate reduction in rumination
+
+### Assessing treatments used to reduce rumination and/or worry: A systematic review
+https://www.sciencedirect.com/science/article/pii/S0272735813001207#preview-section-references
+Mindfulness and cognitive behavioural interventions reduce rumination and worry.
+
+Internet-delivered and face-to-face delivered formats appear useful.
+
+Rumination and worry may be underpinned by a similar cognitive process.
+
+Priorities for future research are highlighted.
+
 ### Exploring Fitness Tracker Visualisations to Avoid Rumination
 
 doi: https://dl.acm.org/doi/10.1145/3379503.3405662
